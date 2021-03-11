@@ -6,3 +6,10 @@
 2. Then click on the "bot" area and click "add bot"
 3. Copy the token
 4. Go to the config.json file and paste you token and add a prefix
+
+```js
+{
+  "prefix": "", //your prefix
+  "token": "" //your discord bot's token
+}
+```
